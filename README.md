@@ -5,6 +5,6 @@
 - SQL
 - JSON
 ## Tools used:
--- DBeaver
--- Jupyter Notebook
+- DBeaver
+- Jupyter Notebook
 
