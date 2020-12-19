@@ -7,4 +7,6 @@ Extracted the data using RESTful API for Spotify user's most recently played tra
 ## Tools used:
 - DBeaver
 - Jupyter Notebook
+## Output
+![](https://github.com/Manandedhia/Spotify-ETL/blob/master/SpotifyOutputSS.JPG)
 
